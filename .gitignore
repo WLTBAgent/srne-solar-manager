@@ -1,0 +1,10 @@
+# build artifacts
+/bin/
+coverage.out
+
+# local logs and scratch files
+*.log
+log.txt
+
+# editor / agent tooling
+.zcode/

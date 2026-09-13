@@ -1,6 +1,6 @@
 # SRNE Solar Manager
 
-[![CI](https://github.com/wltbagent/srne-solar-manager/actions/workflows/ci.yml/badge.svg)](https://github.com/wltbagent/srne-solar-manager/actions/workflows/ci.yml)
+[![CI](https://github.com/WLTBAgent/srne-solar-manager/actions/workflows/ci.yml/badge.svg)](https://github.com/WLTBAgent/srne-solar-manager/actions/workflows/ci.yml)
 [![Go](https://img.shields.io/badge/Go-1.24%2B-00ADD8?logo=go&logoColor=white)](https://go.dev)
 [![Platform](https://img.shields.io/badge/platform-linux-lightgrey)](#requirements)
 [![License](https://img.shields.io/badge/license-proprietary-red)](#license)
@@ -45,7 +45,7 @@
 ## Install
 
 ```bash
-git clone https://github.com/wltbagent/srne-solar-manager
+git clone https://github.com/WLTBAgent/srne-solar-manager
 cd srne-solar-manager
 sudo make install
 ```
